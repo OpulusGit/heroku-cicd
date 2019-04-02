@@ -1,0 +1,3 @@
+# Log files
+*.log
+simple-server/node_modules
